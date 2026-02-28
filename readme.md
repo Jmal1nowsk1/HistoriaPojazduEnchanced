@@ -8,7 +8,7 @@ Automatyczne sprawdzanie daty pierwszej rejestracji pojazdu w bazie CEPIK na pod
 
 ```bash
 git clone https://github.com/Jmal1nowsk1/HistoriaPojazduEnchanced
-cd cepiK-date-finder
+cd HistoriaPojazduEnchanced
 npm install
 npx playwright install
 ```
