@@ -10,7 +10,6 @@ Automatyczne sprawdzanie daty pierwszej rejestracji pojazdu w bazie CEPIK na pod
 git clone https://github.com/Jmal1nowsk1/HistoriaPojazduEnchanced
 cd HistoriaPojazduEnchanced
 npm install
-npx playwright install
 ```
 
 ---
